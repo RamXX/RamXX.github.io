@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on rsalas:blog()</title>
+    <link>https://RamXX.github.io/tags/blog/</link>
+    <description>Recent content in Blog on rsalas:blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 30 Mar 2014 16:54:04 -0700</lastBuildDate>
+    
+	<atom:link href="https://RamXX.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Static</title>
+      <link>https://RamXX.github.io/2014/03/going-static/</link>
+      <pubDate>Sun, 30 Mar 2014 16:54:04 -0700</pubDate>
+      
+      <guid>https://RamXX.github.io/2014/03/going-static/</guid>
+      <description>One reason why I had stopped posting anything in my blog for a while was my frustration on how slow the Wordpress back-end for Dreamhost “economy users” is, you know, the ones with the most basic plans.
+I guess they must have realized that, since they are starting a new Wordpress-only hosting system, which is supposed to be optimized for that use only. All nice and good, but their promotional pricing of $19.</description>
+    </item>
+    
+  </channel>
+</rss>
