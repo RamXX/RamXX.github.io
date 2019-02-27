@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diversity on rsalas:blog()</title>
-    <link>https://RamXX.github.io/tags/diversity/</link>
-    <description>Recent content in Diversity on rsalas:blog()</description>
+    <title>Diversity on ramix.io</title>
+    <link>https://ramix.io/tags/diversity/</link>
+    <description>Recent content in Diversity on ramix.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Tue, 14 Nov 2017 09:53:38 -0700</lastBuildDate>
     
-	<atom:link href="https://RamXX.github.io/tags/diversity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramix.io/tags/diversity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Turning 50 in Tech</title>
-      <link>https://RamXX.github.io/2017/11/turning-50-in-tech/</link>
+      <link>https://ramix.io/2017/11/turning-50-in-tech/</link>
       <pubDate>Tue, 14 Nov 2017 09:53:38 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2017/11/turning-50-in-tech/</guid>
+      <guid>https://ramix.io/2017/11/turning-50-in-tech/</guid>
       <description>It’s hard for me to believe but it’s been half a century of “me”… and as we humans go through our hardware lifecycles, it’s good to take a pause and think about what it all means at some stages in the road.
 Yes, it’s technically just another number. No more or less important than 14, 46 or 81. However, it has a soft meaning, a cultural significance, and its associated stereotypes.</description>
     </item>

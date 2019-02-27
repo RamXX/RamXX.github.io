@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on rsalas:blog()</title>
-    <link>https://RamXX.github.io/categories/</link>
-    <description>Recent content in Categories on rsalas:blog()</description>
+    <title>Categories on ramix.io</title>
+    <link>https://ramix.io/categories/</link>
+    <description>Recent content in Categories on ramix.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Thu, 16 Nov 2017 16:12:11 -0700</lastBuildDate>
     
-	<atom:link href="https://RamXX.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramix.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Audio</title>
-      <link>https://RamXX.github.io/categories/audio/</link>
+      <link>https://ramix.io/categories/audio/</link>
       <pubDate>Thu, 16 Nov 2017 16:12:11 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/categories/audio/</guid>
+      <guid>https://ramix.io/categories/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cooking</title>
-      <link>https://RamXX.github.io/categories/cooking/</link>
+      <link>https://ramix.io/categories/cooking/</link>
       <pubDate>Tue, 05 Jul 2016 20:12:09 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/categories/cooking/</guid>
+      <guid>https://ramix.io/categories/cooking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opinion</title>
-      <link>https://RamXX.github.io/categories/opinion/</link>
+      <link>https://ramix.io/categories/opinion/</link>
       <pubDate>Tue, 14 Nov 2017 09:53:38 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/categories/opinion/</guid>
+      <guid>https://ramix.io/categories/opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politics</title>
-      <link>https://RamXX.github.io/categories/politics/</link>
+      <link>https://ramix.io/categories/politics/</link>
       <pubDate>Thu, 02 Oct 2014 07:32:28 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/categories/politics/</guid>
+      <guid>https://ramix.io/categories/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://RamXX.github.io/categories/tech/</link>
+      <link>https://ramix.io/categories/tech/</link>
       <pubDate>Mon, 05 Sep 2016 15:30:33 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/categories/tech/</guid>
+      <guid>https://ramix.io/categories/tech/</guid>
       <description></description>
     </item>
     

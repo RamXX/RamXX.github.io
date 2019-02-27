@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Encryption on rsalas:blog()</title>
-    <link>https://RamXX.github.io/tags/encryption/</link>
-    <description>Recent content in Encryption on rsalas:blog()</description>
+    <title>Encryption on ramix.io</title>
+    <link>https://ramix.io/tags/encryption/</link>
+    <description>Recent content in Encryption on ramix.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Tue, 05 Jul 2016 15:31:51 -0700</lastBuildDate>
     
-	<atom:link href="https://RamXX.github.io/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramix.io/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selecting the Right VPN Service</title>
-      <link>https://RamXX.github.io/2016/07/selecting-the-right-vpn-service/</link>
+      <link>https://ramix.io/2016/07/selecting-the-right-vpn-service/</link>
       <pubDate>Tue, 05 Jul 2016 15:31:51 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2016/07/selecting-the-right-vpn-service/</guid>
+      <guid>https://ramix.io/2016/07/selecting-the-right-vpn-service/</guid>
       <description>I first published this in 2013 but since I&amp;rsquo;ve been asked recently by several friends, I figured I update it with more current information.
 For the record, I’m a CISSP, and as such, computer security is always in the top of my mind. For me, that also extends to privacy.
 Since I spend a good amount of time at airports, hotels, coffee shops and generally roaming around, having a VPN service has become a necessity for me as well as for anyone who values their online privacy and safety, even at home.</description>

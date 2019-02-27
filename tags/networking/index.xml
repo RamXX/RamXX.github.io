@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Networking on rsalas:blog()</title>
-    <link>https://RamXX.github.io/tags/networking/</link>
-    <description>Recent content in Networking on rsalas:blog()</description>
+    <title>Networking on ramix.io</title>
+    <link>https://ramix.io/tags/networking/</link>
+    <description>Recent content in Networking on ramix.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Mon, 05 Sep 2016 15:30:33 -0700</lastBuildDate>
     
-	<atom:link href="https://RamXX.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramix.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting Up CJDNS on pfSense</title>
-      <link>https://RamXX.github.io/2016/09/setting-up-cjdns-on-pfsense/</link>
+      <link>https://ramix.io/2016/09/setting-up-cjdns-on-pfsense/</link>
       <pubDate>Mon, 05 Sep 2016 15:30:33 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2016/09/setting-up-cjdns-on-pfsense/</guid>
+      <guid>https://ramix.io/2016/09/setting-up-cjdns-on-pfsense/</guid>
       <description>CJDNS is an IPv6 encrypted mesh networking technology, used in Hyperborea and other mesh networks around the world. I particularly like the way it&amp;rsquo;s conceived, with end-to-end encryption, distributed IP address allocation, DHT-based source routing and MPLS-like label switching.
 It has several interesting use cases, but I wanted to set it up in my pfSense gateway VM so I can use it as a distributed VPN of sorts. This could be useful to be able to access my systems from anywhere while traveling, or where my team can share access to each other&amp;rsquo;s Cloud Foundry labs, particularly when we travel.</description>
     </item>
     
     <item>
       <title>Selecting the Right VPN Service</title>
-      <link>https://RamXX.github.io/2016/07/selecting-the-right-vpn-service/</link>
+      <link>https://ramix.io/2016/07/selecting-the-right-vpn-service/</link>
       <pubDate>Tue, 05 Jul 2016 15:31:51 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2016/07/selecting-the-right-vpn-service/</guid>
+      <guid>https://ramix.io/2016/07/selecting-the-right-vpn-service/</guid>
       <description>I first published this in 2013 but since I&amp;rsquo;ve been asked recently by several friends, I figured I update it with more current information.
 For the record, I’m a CISSP, and as such, computer security is always in the top of my mind. For me, that also extends to privacy.
 Since I spend a good amount of time at airports, hotels, coffee shops and generally roaming around, having a VPN service has become a necessity for me as well as for anyone who values their online privacy and safety, even at home.</description>

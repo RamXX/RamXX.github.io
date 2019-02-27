@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social on rsalas:blog()</title>
-    <link>https://RamXX.github.io/tags/social/</link>
-    <description>Recent content in Social on rsalas:blog()</description>
+    <title>Social on ramix.io</title>
+    <link>https://ramix.io/tags/social/</link>
+    <description>Recent content in Social on ramix.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Sun, 01 Sep 2013 10:20:09 -0700</lastBuildDate>
     
-	<atom:link href="https://RamXX.github.io/tags/social/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramix.io/tags/social/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Facebook No More</title>
-      <link>https://RamXX.github.io/2013/09/facebook-no-more/</link>
+      <link>https://ramix.io/2013/09/facebook-no-more/</link>
       <pubDate>Sun, 01 Sep 2013 10:20:09 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2013/09/facebook-no-more/</guid>
+      <guid>https://ramix.io/2013/09/facebook-no-more/</guid>
       <description>I resisted joining Facebook for quite some time, not because I’m a Luddite or an old timer, but rather because I know better than most people what goes on underneath the surface of such type of platforms. I also know well what happens to companies that become public and now face the constant pressure of produce results for the quarter. There is no free lunch…
 However, most of my family in Chile, Europe and the USA have chosen that medium to communicate and share their daily lives and updates, without any regard for their sense of privacy or even a clear understanding of what they are giving away for the service they get.</description>
     </item>
     
     <item>
       <title>Why I Don&#39;t Use Gmail</title>
-      <link>https://RamXX.github.io/2013/07/why-i-dont-use-gmail/</link>
+      <link>https://ramix.io/2013/07/why-i-dont-use-gmail/</link>
       <pubDate>Sat, 13 Jul 2013 15:35:33 -0700</pubDate>
       
-      <guid>https://RamXX.github.io/2013/07/why-i-dont-use-gmail/</guid>
+      <guid>https://ramix.io/2013/07/why-i-dont-use-gmail/</guid>
       <description>I’ve never been very fond of keeping something as sensitive as my personal email in a service provider. I used to run my own email server at home based on Zimbra a few years back, but like everything else, it became cumbersome. Updates, backups and having to deal with restrictive ISP policies around SMTP made me finally give up and move all my 14 years of email to Google.</description>
     </item>
     
